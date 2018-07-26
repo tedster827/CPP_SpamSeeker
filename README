@@ -1,0 +1,13 @@
+Known Bugs:
+Words like twin, with the keyword at the end of the word, will also
+unwantingly be accepted.
+
+Compile Command:
+g++ williams_proj1.cpp -o williams_proj1
+
+Files This Program Excepts:
+messagefile.txt
+
+Run Command:
+./williams_proj1
+Written by Teddy Williams Apr 2017
